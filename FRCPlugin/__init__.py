@@ -1,5 +1,5 @@
-from .frc import FRC
+from .frc import frc
 
 
 def setup(bot):
-    bot.add_cog(FRC())
+    bot.add_cog(frc())
