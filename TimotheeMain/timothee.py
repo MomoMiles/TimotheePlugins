@@ -7,4 +7,4 @@ class timothee(commands.Cog):
     async def timothee(self, ctx):
         """This does stuff!"""
         # Your code will go here
-        await ctx.send("This is a test frc command! If you see this it works!")
+        await ctx.send("This is a test timothee command. If you see this it works!")
