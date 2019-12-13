@@ -1,4 +1,4 @@
-from .timothee import TimotheeMain
+from timothee import TimotheeMain
 
 
 def setup(bot):
