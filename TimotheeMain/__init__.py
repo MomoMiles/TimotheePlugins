@@ -1,5 +1,4 @@
-from .timothee import TimotheeMain
-
+from .mycog import Mycog
 
 def setup(bot):
-    bot.add_cog(TimotheeMain(bot))
+    bot.add_cog(Mycog())
