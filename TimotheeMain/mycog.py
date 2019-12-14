@@ -17,3 +17,7 @@ class Mycog(commands.Cog):
     @commands.command()
     async def iwanttofuckenkillmyself(self, ctx):
         await ctx.send("I want to fucken kill myself - Chris 2019")
+
+    @commands.command()
+    async def howswefeelin(self, ctx):
+        await ctx.send("yee fuckn haw time to die")
