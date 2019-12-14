@@ -8,3 +8,6 @@ class Mycog(commands.Cog):
         """This does stuff!"""
         # Your code will go here
         await ctx.send("I can do stuff!")
+
+    async def beautiful(self, ctx):
+        await ctx.send("Me? I'm beautiful? I know that already silly :stuck_out_tongue:")
