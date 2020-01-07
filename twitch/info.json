@@ -1,0 +1,29 @@
+{
+    "author" : [
+        "MomoMiles"
+    ],
+    "description" : "All in one Twitch plugin for follower alerts, live alerts, stats, etc",
+    "disabled" : false,
+    "hidden" : false,
+    "install_msg" : "Setup a channel for new twitch live notifications!",
+    "max_bot_version" : "0.0.0",
+    "min_bot_version" : "3.0.0",
+    "min_python_version" : [
+        3,
+        6,
+        2
+    ],
+    "name" : "Twitch",
+    "permissions" : [
+        "embed_links"
+    ],
+    "required_cogs" : [],
+    "requirements" : [],
+    "short" : "All in one Twitch Plugin.",
+    "tags" : [
+        "twitch",
+        "streaming",
+        "utility"
+    ],
+    "type" : "COG"
+}
